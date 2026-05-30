@@ -31,7 +31,7 @@ Faucet: https://faucet.iopn.tech
 
 ## Contract
 
-Contract Address: PASTE_CONTRACT_ADDRESS_HERE
+Contract Address: 0x774d63B3A2aA67378f3d0de38C8c581A28340Ea8
 
 ## Example Milestones
 
